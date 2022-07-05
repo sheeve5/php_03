@@ -1,4 +1,4 @@
-{extends file="../templates/main.html"}
+{extends file="../templates/main.tpl"}
 
 {block name=footer}Ta część stopki została wpisana z szablonu kalkulatora{/block}
 

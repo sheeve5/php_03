@@ -1,23 +1,23 @@
-<?php /* Smarty version Smarty-3.1.17, created on 2022-07-03 22:47:42
-         compiled from "C:\xampp\htdocs\php_03\app\calc.html" */ ?>
-<?php /*%%SmartyHeaderCode:182911166562c2006e69c7a9-71205655%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty-3.1.17, created on 2022-07-05 17:57:32
+         compiled from "C:\xampp\htdocs\php_03\app\calc.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:47673522762c45f6c4e1191-15579117%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    'b7c2c356abd0b004d998d14789f214adb51b8635' => 
+    'cc884a92b136da1db9b4370fae8c581989191a6b' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\php_03\\app\\calc.html',
-      1 => 1656880304,
+      0 => 'C:\\xampp\\htdocs\\php_03\\app\\calc.tpl',
+      1 => 1657036641,
       2 => 'file',
     ),
-    'c5b62abc2adbe8a536190c0b976dcf623f7845e6' => 
+    '27165fd4b93b05182a23cf7c38449bca5611528e' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\php_03\\templates\\main.html',
+      0 => 'C:\\xampp\\htdocs\\php_03\\templates\\main.tpl',
       1 => 1656881189,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '182911166562c2006e69c7a9-71205655',
+  'nocache_hash' => '47673522762c45f6c4e1191-15579117',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.17',
-  'unifunc' => 'content_62c2006e6fa8d1_44679158',
+  'unifunc' => 'content_62c45f6c689733_20502558',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_62c2006e6fa8d1_44679158')) {function content_62c2006e6fa8d1_44679158($_smarty_tpl) {?><html lang="en"><head>
+<?php if ($_valid && !is_callable('content_62c45f6c689733_20502558')) {function content_62c45f6c689733_20502558($_smarty_tpl) {?><html lang="en"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">

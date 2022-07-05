@@ -13,4 +13,4 @@ $smarty->assign('page_header','Szablony Smarty');
 
 
 // 5. Wywołanie szablonu
-$smarty->display(_ROOT_PATH.'/app/otherpage.html');
+$smarty->display(_ROOT_PATH.'/app/otherpage.tpl');

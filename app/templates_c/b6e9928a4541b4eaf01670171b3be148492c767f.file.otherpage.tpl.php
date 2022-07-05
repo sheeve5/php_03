@@ -1,23 +1,23 @@
-<?php /* Smarty version Smarty-3.1.17, created on 2022-07-03 22:47:51
-         compiled from "C:\xampp\htdocs\php_03\app\otherpage.html" */ ?>
-<?php /*%%SmartyHeaderCode:164166266762c2007721cf89-94702548%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty-3.1.17, created on 2022-07-05 17:57:36
+         compiled from "C:\xampp\htdocs\php_03\app\otherpage.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:212089296662c45f70876185-05121926%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    '6dec76b57265537a2074cb7b2b29c83d1477f44b' => 
+    'b6e9928a4541b4eaf01670171b3be148492c767f' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\php_03\\app\\otherpage.html',
-      1 => 1656880681,
+      0 => 'C:\\xampp\\htdocs\\php_03\\app\\otherpage.tpl',
+      1 => 1657036622,
       2 => 'file',
     ),
-    'c5b62abc2adbe8a536190c0b976dcf623f7845e6' => 
+    '27165fd4b93b05182a23cf7c38449bca5611528e' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\php_03\\templates\\main.html',
+      0 => 'C:\\xampp\\htdocs\\php_03\\templates\\main.tpl',
       1 => 1656881189,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '164166266762c2007721cf89-94702548',
+  'nocache_hash' => '212089296662c45f70876185-05121926',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.17',
-  'unifunc' => 'content_62c20077263180_11336572',
+  'unifunc' => 'content_62c45f7090a447_50537320',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_62c20077263180_11336572')) {function content_62c20077263180_11336572($_smarty_tpl) {?><html lang="en"><head>
+<?php if ($_valid && !is_callable('content_62c45f7090a447_50537320')) {function content_62c45f7090a447_50537320($_smarty_tpl) {?><html lang="en"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
